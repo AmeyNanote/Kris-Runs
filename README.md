@@ -6,5 +6,6 @@ This is a project for COMP313 by a few select students;
 - Lead Developer: Amey Nanote
 - Integration Lead: Michael Tan 
 - Flex Developer: Marianne Trye
+- Flex ： Biru Lin
 
 Positions are set to change until final build!
