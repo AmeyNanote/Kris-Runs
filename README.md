@@ -7,6 +7,6 @@ This is a project for COMP313 by a few select students;
 - Integration Lead: Michael Tan 
 - Assistant Designer: Ruoheng Wang
 - Flex Developer: Marianne Trye
-- Flex ： Biru Lin
+- Flex Developer： Biru Lin
 
 Positions are set to change until final build!
