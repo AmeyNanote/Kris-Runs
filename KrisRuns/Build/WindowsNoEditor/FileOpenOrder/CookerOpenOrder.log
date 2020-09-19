@@ -1,0 +1,596 @@
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 0
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Enemies-model/Trashcan/Skeleton/monster_Skeleton.uasset" 1
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Enemies-model/Trashcan/Animation/hit.uasset" 2
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Enemies-model/Trashcan/Animation/run.uasset" 3
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Enemies-model/Trashcan/Animation/Trashcan_IdleRun_BS.uasset" 4
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Kris-model/Materials/Eye-material.uasset" 5
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Kris-model/Materials/Hair-material.uasset" 6
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Kris-model/Materials/Pants-material.uasset" 7
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Kris-model/Materials/Shirt-material.uasset" 8
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Kris-model/Materials/Shirt-material_001.uasset" 9
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Kris-model/Materials/Shoe-material.uasset" 10
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Kris-model/Materials/Skin-material.uasset" 11
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Kris-model/Materials/Skin-shaders-material.uasset" 12
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Kris-model/Materials/Vest-material.uasset" 13
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Kris-model/Character/Idle_PhysicsAsset.uasset" 14
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Kris-model/Character/Idle_Skeleton.uasset" 15
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Kris-model/Character/Idle.uasset" 16
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Kris-model/Idle.uasset" 17
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Kris-Wearables/Shoes/Materials/lambert2.uasset" 18
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Kris-Wearables/Shoes/Materials/lambert6.uasset" 19
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Kris-Wearables/Shoes/Materials/lambert7.uasset" 20
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Kris-Wearables/Shoes/Materials/phongE1.uasset" 21
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Kris-Wearables/Shoes/Materials/phongE2.uasset" 22
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Kris-Wearables/Shoes/Materials/phongE3.uasset" 23
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Kris-Wearables/Shoes/Materials/phongE4.uasset" 24
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Kris-Wearables/Umbrella/Materials/Material_001.uasset" 25
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Kris-Wearables/Umbrella/Materials/Material_002.uasset" 26
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Kris-Wearables/Umbrella/Materials/Umbrella-handle.uasset" 27
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Kris-Wearables/Umbrella/Materials/Umbrella-stem.uasset" 28
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 29
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 30
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 31
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 32
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 33
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 34
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Mannequin/Animations/ThirdPersonRun.uasset" 35
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 36
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 37
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 38
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 39
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 40
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 41
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 42
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 43
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 44
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 45
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 46
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 47
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 48
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 49
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 50
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 51
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 52
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 53
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 54
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 55
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 56
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 57
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 58
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Materials/M_Basic_Wall.uasset" 59
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Architecture/Wall_400x400.uasset" 60
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Architecture/Wall_500x500.uasset" 61
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 62
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 63
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Audio/Collapse01.uasset" 64
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Audio/Collapse02.uasset" 65
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Audio/Explosion01.uasset" 66
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Audio/Explosion02.uasset" 67
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Audio/Fire01.uasset" 68
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Audio/Fire_Sparks01.uasset" 69
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Audio/Light01.uasset" 70
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Audio/Light01_Cue.uasset" 71
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Audio/Light02.uasset" 72
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Audio/Light02_Cue.uasset" 73
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Audio/Smoke01.uasset" 74
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Audio/Starter_Birds01.uasset" 75
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Audio/Starter_Music01.uasset" 76
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Audio/Starter_Wind05.uasset" 77
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Audio/Starter_Wind06.uasset" 78
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Audio/Steam01.uasset" 79
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Audio/Explosion_Cue.uasset" 80
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Burst_M.uasset" 81
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Particles/Materials/M_Burst.uasset" 82
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 83
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 84
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 85
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 86
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 87
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 88
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 89
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 90
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Particles/P_Explosion.uasset" 91
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 92
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 93
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 94
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Bush_D.uasset" 95
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Bush_N.uasset" 96
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Props/Materials/M_Bush.uasset" 97
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Props/SM_Bush.uasset" 98
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Chair_M.uasset" 99
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Chair_N.uasset" 100
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Props/Materials/M_Chair.uasset" 101
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Props/SM_Couch.uasset" 102
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Materials/M_Glass.uasset" 103
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Door_M.uasset" 104
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Door_N.uasset" 105
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Props/Materials/M_Door.uasset" 106
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Props/SM_Door.uasset" 107
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 108
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 109
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 110
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 111
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 112
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_RockMesh_M.uasset" 113
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_RockMesh_N.uasset" 114
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Props/Materials/M_Rock.uasset" 115
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Props/SM_Rock.uasset" 116
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Shelf_M.uasset" 117
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Shelf_N.uasset" 118
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Props/Materials/M_Shelf.uasset" 119
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Props/SM_Shelf.uasset" 120
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Materials/M_Basic_Floor.uasset" 121
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Props/SM_Stairs.uasset" 122
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Shapes/Shape_Cone.uasset" 123
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 124
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 125
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Shapes/Shape_Pipe.uasset" 126
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 127
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 128
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Shapes/Shape_Plane.uasset" 129
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Shapes/Shape_Torus.uasset" 130
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Shapes/Shape_Trim.uasset" 131
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 132
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 133
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 134
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Shapes/Shape_Tube.uasset" 135
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 136
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 137
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 138
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Static-objects/Bananan/banana_texture.uasset" 139
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Static-objects/Bananan/Material_001.uasset" 140
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Static-objects/Coin/Material.uasset" 141
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/ThirdPersonBP/ThirdPersonOverview.uasset" 142
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Kris-model/Animations/Attack.uasset" 143
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Kris-model/Animations/Dodge.uasset" 144
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Kris-model/Animations/Jump.uasset" 145
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Kris-model/Animations/Idle_Anim.uasset" 146
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Kris-model/Animations/Running.uasset" 147
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Kris-model/Animations/Standard_Walk.uasset" 148
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Kris-model/Animations/KrisModel_IdleRun_BS.uasset" 149
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Kris-model/Animations/KrisModel_AnimBP.uasset" 150
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 151
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 152
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 153
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 154
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 155
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 156
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Enemies-model/Trashcan/Materials/initialShadingGroup1.uasset" 157
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Enemies-model/Trashcan/Materials/lambert2.uasset" 158
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Enemies-model/Trashcan/Materials/lambert3.uasset" 159
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Enemies-model/Trashcan/Materials/lambert4.uasset" 160
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Enemies-model/Trashcan/Materials/lambert5.uasset" 161
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Enemies-model/Trashcan/Materials/lambert6.uasset" 162
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Enemies-model/Trashcan/Materials/lambert7.uasset" 163
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Enemies-model/Trashcan/Materials/phongE1.uasset" 164
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Enemies-model/Trashcan/Materials/phongE2.uasset" 165
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Enemies-model/Trashcan/Materials/phongE3.uasset" 166
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Enemies-model/Trashcan/Materials/phongE4.uasset" 167
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Enemies-model/Trashcan/Skeleton/monster_PhysicsAsset.uasset" 168
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Enemies-model/Trashcan/Skeleton/monster.uasset" 169
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/ThirdPersonBP/Blueprints/AiEnemyFollow.uasset" 170
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/ThirdPersonBP/InventorySystem/InteractInterface.uasset" 171
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/ThirdPersonBP/InventorySystem/InventoryUI/HUD.uasset" 172
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/ThirdPersonBP/MyPlayerController.uasset" 173
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/ThirdPersonBP/InventorySystem/ItemStructure.uasset" 174
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/ThirdPersonBP/InventorySystem/SlotStructure.uasset" 175
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/ThirdPersonBP/InventorySystem/InventoryUI/InventorySlot.uasset" 176
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/ThirdPersonBP/InventorySystem/InventoryUI/InventoryWindow.uasset" 177
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/ThirdPersonBP/InventorySystem/InventoryComponent.uasset" 178
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/ThirdPersonBP/Blueprints/healthbar.uasset" 179
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/ThirdPersonBP/Scoring_System/Coin_Timer.uasset" 180
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" 181
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 182
+"../../../Engine/Content/BasicShapes/Cube.uasset" 183
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/ThirdPersonBP/Blueprints/item.uasset" 184
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/ThirdPersonBP/Blueprints/item2.uasset" 185
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/ThirdPersonBP/Blueprints/itemHealthTexture.uasset" 186
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/ThirdPersonBP/Blueprints/itemHealth.uasset" 187
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 188
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/ThirdPersonBP/Blueprints/Coins/M_Gold.uasset" 189
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/ThirdPersonBP/Blueprints/Enemy/AiEnemyFollow.uasset" 190
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/ThirdPersonBP/Enemy/AiEnemyFollow.uasset" 191
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 192
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 193
+"../../../Engine/Content/BasicShapes/Cone.uasset" 194
+"../../../Engine/Content/BasicShapes/Plane.uasset" 195
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 196
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 197
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 198
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 199
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 200
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 201
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 202
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 203
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 204
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 205
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 206
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 207
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 208
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 209
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 210
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 211
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 212
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 213
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 214
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 215
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 216
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 217
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 218
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 219
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 220
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 221
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 222
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 223
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 224
+"../../../Engine/Content/EditorResources/S_Note.uasset" 225
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 226
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 227
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 228
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 229
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 230
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 231
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 232
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 233
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 234
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 235
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 236
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 237
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 238
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 239
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 240
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 241
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 242
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 243
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 244
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 245
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 246
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 247
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 248
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 249
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 250
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 251
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 252
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 253
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 254
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 255
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 256
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 257
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 258
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 259
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 260
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 261
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 262
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 263
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 264
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 265
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 266
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 267
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 268
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 269
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 270
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 271
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 272
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 273
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 274
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 275
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 276
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 277
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 278
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 279
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 280
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 281
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 282
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 283
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 284
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 285
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 286
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 287
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 288
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 289
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 290
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 291
+"../../../Engine/Content/EngineResources/Black.uasset" 292
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 293
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 294
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 295
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 296
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 297
+"../../../Engine/Content/EngineSounds/Master.uasset" 298
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 299
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 300
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 301
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 302
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 303
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 304
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 305
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 306
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 307
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 308
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 309
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 310
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 311
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 312
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 313
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 314
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 315
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 316
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 317
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 318
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 319
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 320
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 321
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 322
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 323
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 324
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 325
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 326
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 327
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 328
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 329
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 330
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 331
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 332
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 333
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 334
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 335
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 336
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 337
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 338
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 339
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 340
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 341
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 342
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraBooleanLogicOps.uasset" 343
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 344
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 345
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraOrientationAxis.uasset" 346
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 347
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 348
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 349
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 350
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 351
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 352
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 353
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 354
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_MacroVariation.uasset" 355
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 356
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 357
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Materials/M_Metal_Gold.uasset" 358
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 359
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/ThirdPersonBP/Blueprints/Coins/BP_Coin.uasset" 360
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/ThirdPersonBP/Blueprints/item_food.uasset" 361
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/NewMaps/KrisTutorialMap_BuiltData.uasset" 362
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Mat.uasset" 363
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 364
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 365
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 366
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 367
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Static-objects/Donut/Material_002.uasset" 368
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Static-objects/Donut/Material_003.uasset" 369
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Kris-Wearables/Shoes/Materials/initialShadingGroup1.uasset" 370
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Kris-Wearables/Shoes/Materials/lambert3.uasset" 371
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Kris-Wearables/Shoes/Materials/lambert4.uasset" 372
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Kris-Wearables/Shoes/Materials/lambert5.uasset" 373
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Kris-Wearables/Shoes/shoes_Object02.uasset" 374
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Architecture/Pillar_50x500.uasset" 375
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Architecture/Wall_400x300.uasset" 376
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 377
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Static-objects/Bananan/banana-model.uasset" 378
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Static-objects/Coin/coin-model.uasset" 379
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Static-objects/Donut/donut-03_Donut.uasset" 380
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Static-objects/Donut/donut-03_Icing.uasset" 381
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/ThirdPerson/Meshes/RampMaterial.uasset" 382
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset" 383
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" 384
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" 385
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset" 386
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset" 387
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/NewMaps/KrisTutorialMap.umap" 388
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 389
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 390
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 391
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 392
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 393
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 394
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 395
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 396
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 397
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 398
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 399
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 400
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Materials/M_AssetPlatform.uasset" 401
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 402
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 403
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 404
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 405
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 406
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 407
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 408
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 409
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Maps/Advanced_Lighting.umap" 410
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 411
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 412
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 413
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 414
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 415
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 416
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 417
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 418
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 419
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 420
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 421
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 422
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 423
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Materials/M_Metal_Copper.uasset" 424
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Statue_M.uasset" 425
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Statue_N.uasset" 426
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 427
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Architecture/Floor_400x400.uasset" 428
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 429
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Props/SM_Chair.uasset" 430
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Props/Materials/M_Statue.uasset" 431
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Props/SM_Statue.uasset" 432
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_TableRound_M.uasset" 433
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_TableRound_N.uasset" 434
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Props/Materials/M_TableRound.uasset" 435
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Props/SM_TableRound.uasset" 436
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Maps/Minimal_Default.umap" 437
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Audio/Fire01_Cue.uasset" 438
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 439
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 440
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 441
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Water_N.uasset" 442
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 443
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 444
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Particles/P_Fire.uasset" 445
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 446
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Audio/Smoke01_Cue.uasset" 447
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Particles/P_Smoke.uasset" 448
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 449
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 450
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Spark_Core.uasset" 451
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Particles/Materials/M_Spark.uasset" 452
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Particles/P_Sparks.uasset" 453
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 454
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Audio/Steam01_Cue.uasset" 455
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Particles/P_Steam_Lit.uasset" 456
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 457
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Lamp_M.uasset" 458
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Lamp_N.uasset" 459
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Props/Materials/M_Lamp.uasset" 460
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 461
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 462
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 463
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 464
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 465
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 466
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 467
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 468
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 469
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 470
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 471
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 472
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 473
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 474
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 475
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 476
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 477
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 478
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 479
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 480
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 481
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 482
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 483
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 484
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 485
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 486
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 487
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 488
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 489
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 490
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 491
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Gradinet_01.uasset" 492
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 493
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 494
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 495
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 496
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 497
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 498
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 499
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 500
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 501
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 502
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 503
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 504
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 505
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 506
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 507
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 508
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 509
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 510
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 511
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 512
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 513
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 514
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Materials/M_Ground_Grass.uasset" 515
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 516
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 517
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 518
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 519
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 520
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Materials/M_Ground_Moss.uasset" 521
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 522
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 523
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Materials/M_Metal_Rust.uasset" 524
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 525
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 526
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Materials/M_Metal_Steel.uasset" 527
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 528
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 529
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 530
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 531
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 532
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 533
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 534
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 535
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Materials/M_Rock_Slate.uasset" 536
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 537
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 538
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 539
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 540
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 541
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 542
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 543
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 544
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 545
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 546
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 547
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Materials/M_Tech_Panel.uasset" 548
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Materials/M_Water_Lake.uasset" 549
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Water_M.uasset" 550
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Materials/M_Water_Ocean.uasset" 551
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 552
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 553
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 554
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 555
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 556
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 557
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 558
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 559
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Materials/M_Wood_Oak.uasset" 560
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 561
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 562
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Materials/M_Wood_Pine.uasset" 563
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 564
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 565
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 566
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Architecture/Wall_400x200.uasset" 567
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 568
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Audio/Collapse_Cue.uasset" 569
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 570
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 571
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 572
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 573
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Props/MaterialSphere.uasset" 574
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Frame_M.uasset" 575
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Textures/T_Frame_N.uasset" 576
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Props/Materials/M_Frame.uasset" 577
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Props/SM_CornerFrame.uasset" 578
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Props/SM_DoorFrame.uasset" 579
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Props/SM_GlassWindow.uasset" 580
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Props/SM_PillarFrame.uasset" 581
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Props/SM_PillarFrame300.uasset" 582
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Props/SM_WindowFrame.uasset" 583
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Shapes/Shape_Cube.uasset" 584
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 585
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Shapes/Shape_Sphere.uasset" 586
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/StarterContent/Maps/StarterMap.umap" 587
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" 588
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Geometry/Meshes/CubeMaterial.uasset" 589
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Geometry/Meshes/1M_Cube.uasset" 590
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 591
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/Geometry/Meshes/TemplateFloor.uasset" 592
+"C:/Users/Hsin CHen/Documents/GitHub/Kris-Runs/KrisRuns/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" 593
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 594
+"../../../Engine/Content/Maps/Entry.umap" 595
