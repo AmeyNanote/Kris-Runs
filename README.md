@@ -37,3 +37,9 @@ This is a project for COMP313 by a few select students;
 - Assistant Designer: Ruoheng Wang
 - Flex Developer: Marianne Trye
 - Flex Developer： Biru Lin
+
+## Gameplay Documentation Video
+https://youtu.be/_RAOR0W1Ids
+
+## Code Documentation Video
+https://youtu.be/77JJg6ik_UI
